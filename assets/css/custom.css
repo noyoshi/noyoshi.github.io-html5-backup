@@ -1,0 +1,28 @@
+/* Override the themes in here */
+.more-detail {
+    color: rgb(228, 228, 228) !important;
+}
+
+.work-details {
+    color: rgb(209, 210, 212) !important;
+}
+
+.with-background {
+    background-image: url("../../images/background.jpeg");
+}
+
+.inner-image {
+    height: 100%;
+}
+
+.with-background-2 {
+    background-image: url("../../images/pic02.jpg");
+}
+
+.role {
+    margin: 0 0 0.2em 0;
+}
+
+.job {
+    margin: 0 0 0.15em 0;
+}
